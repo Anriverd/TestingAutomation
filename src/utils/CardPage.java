@@ -1,5 +1,5 @@
 package utils;
 
-public Cart{
-//from github
+public class CardPage{
+//from GitHub
 }
